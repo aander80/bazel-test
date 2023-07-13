@@ -1,0 +1,5 @@
+cc_library(
+    name = "say",
+    srcs = ["say.c"],
+    hdrs = ["say.h"],
+)
